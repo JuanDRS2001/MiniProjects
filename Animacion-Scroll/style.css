@@ -37,3 +37,71 @@ body{
     transform: translateX(0);
 
 }
+
+.heroe1{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9SUZenDtSpQ2Z_rvPjuPAYVIN6l4jplmE6tmmMPMY7jaFUpFXBd1vrXIdSEb--fHc6Ss&usqp=CAU) no-repeat center;
+    background-size: cover;
+}
+.heroe2{
+    background: url(https://datainfox.com/wp-content/uploads/2019/11/stark-avangers-tg.jpg) no-repeat center;
+    background-size: cover;
+}
+.heroe3{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXwx54dE8mf15edl0a7WXK1p53DmzBJUrj4jULpKYOqT9Mkh1ZCYP6PFRPHhr6ufrUNzY&usqp=CAU) no-repeat center;
+    background-size: cover;
+}
+.heroe4{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ti4zDClk6JMHr5xAaoHT5EvbxaEcJSzssQJ8kDpgSmLfvu_FYrX4m6SdTAgGY9u9YFw&usqp=CAU) no-repeat center;
+    background-size: cover;
+}
+.heroe5{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_6EEXecQa2K-Ishci8-3KNYucLI7dJG87BkG9nKPTBKAOGxOyT2fGT7lqyVVcqvDFWAo&usqp=CAU) no-repeat center;
+    background-size: cover;
+}
+.heroe6{
+    background: url(https://i.pinimg.com/originals/d9/d7/4b/d9d74bbee0ef7ffebd45820227b49ec1.jpg) no-repeat center;
+    background-size: cover;
+}
+.heroe7{
+    background: url(https://wallpapercave.com/wp/wp2685921.jpg) no-repeat center;
+    background-size: cover;
+}
+.heroe8{
+    background: url(https://i.pinimg.com/originals/db/b4/9e/dbb49e4b3796c4a74ac6395e865e8701.jpg) no-repeat center;
+    background-size: cover;
+}
+.heroe9{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyBC4A8_mWAsSrFYi4teZ0wPEpcLXWa9yPsdCnLIRwDNfFOAkg7ynhO8OV90_RZazlJaU&usqp=CAU) no-repeat center;
+    background-size: cover;
+}
+.heroe10{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTZzZPYSCHCuz1mq5p8PDCUnlS0gF4knPuQov6WjE8-EUW56KkrRJLa6ygK3vp9YL0jjs&usqp=CAU) no-repeat center;
+    background-size: cover;
+}
+.heroe11{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNKEMfWBrlIQzeUcAGtiBsITu_pNxXaDMgpsnDy8o_66wOU0CMz47ZGm6odP2I9SNShsI&usqp=CAU) no-repeat center;
+    background-size: cover;
+}
+.heroe12{
+    background: url(https://i.pinimg.com/originals/91/39/4f/91394f4b81404df95deff8865a898954.jpg) no-repeat center;
+    background-size: cover;
+}
+.heroe13{
+    background: url(https://images5.alphacoders.com/698/thumb-350-698123.jpg) no-repeat center;
+    background-size: cover;
+}
+.heroe14{
+    background: url(http://divergentemx.com/wp-content/uploads/2015/07/Ant_Man_HD_Wallpapers.jpg) no-repeat center;
+    background-size: cover;
+}
+.heroe15{
+    background: url(https://files.lafm.com.co/assets/public/styles/image_631x369/public/2019-01/captain_m_0.jpg?itok=cZzdVWuC) no-repeat center;
+    background-size: cover;
+}
+.heroe16{
+    background: url(https://p4.wallpaperbetter.com/wallpaper/585/538/562/thanos-avengers-endgame-avengers-infinity-war-hd-wallpaper-preview.jpg) no-repeat center;
+    background-size: cover;
+}
+
+
+
