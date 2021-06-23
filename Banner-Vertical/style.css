@@ -1,0 +1,99 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100hv;
+}
+
+.contenedor{
+    position: relative;
+    overflow: hidden;
+    width: 100vw;
+    height: 100vh;
+}
+
+.contenedor-izq{
+    height: 100%;
+    width: 35%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: transform .5s ease-in-out;
+}
+
+.contenedor p{
+    padding: 0 50px;
+    text-align: center;
+}
+
+.contenedor-izq > div{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #fafafa;
+}
+
+.contenedor-izq h1{
+    margin-top: -30px;
+    margin-bottom: 10px;
+}
+
+.contenedor-der{
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 35%;
+    width: 65%;
+    transition: transform .5s ease-in-out;
+
+}
+
+.contenedor-der > div{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 100%;
+    width: 100%;
+}
+
+.contenedor .botones button{
+    position: absolute;
+    left: 35%;
+    top: 50%;
+    z-index: 100;
+}
+
+.contenedor .botones .boton-abajo{
+    transform: translateX(-100%);
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.contenedor .botones .boton-arriba{
+    transform: translateY(-100%);
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+button{
+    font-size: 15px;
+    padding: 15px;
+    cursor: pointer;
+    color: #aaa;
+    border: none;
+}
+
+button:hover{
+    color: #242424;
+}
+
+button:focus{
+    outline: none;
+}

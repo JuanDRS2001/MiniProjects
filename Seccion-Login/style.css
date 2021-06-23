@@ -1,5 +1,5 @@
 body{
-    background-image: url(https://cdn.pixabay.com/photo/2020/07/06/01/33/sky-5375005_960_720.jpg);
+    background-image: url('img/fondo-login.jpg');
     color: #fafafa;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     display: flex;
